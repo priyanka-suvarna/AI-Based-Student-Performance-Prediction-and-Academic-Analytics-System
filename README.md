@@ -106,7 +106,7 @@ The application can generate downloadable PDF reports containing:
 
 👨‍💻 Developed By
 
-Subhan Attar
+Priyanka Suvarna
 Computer Science and Engineering
 
 Conclusion
